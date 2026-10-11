@@ -13,7 +13,7 @@ Built and tested on Retell AI (single-prompt agent, web test calls).
 | `all_call_transcripts.md` | All 13 test call transcripts, each with scenario, call ID, expected and actual result |
 | `Retell_Single-Prompt_Agent_v1.json` | Retell export of the final published version (v1) with an improved call-ending instruction. The test recordings were made with the earlier version (v0), whose prompt is `system_prompt.txt` |
 
-Google Drive folder with the 13 audio recordings, transcripts and screen recording: _paste your Google Drive link here_
+Google Drive folder with the 13 audio recordings, transcripts and screen recording: [Open the Drive folder](https://drive.google.com/drive/folders/1l4ikzu60xQVaba4bQ0sL-aYne-2Vpx-q?usp=drive_link)
 
 ## How the prompt works
 
